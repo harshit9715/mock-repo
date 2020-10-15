@@ -1,5 +1,5 @@
-public class Cwuhvc {
+public class Ccksxk {
     public static void main() {
-        System.out.println("bdvsr");
+        System.out.println("vunel");
     }
 }
